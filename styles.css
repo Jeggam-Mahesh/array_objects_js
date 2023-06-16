@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+
+}
+h1{
+    color: darkgreen;
+    text-align: center;
+}
+h3{
+    color:brown;
+}
+pre{
+    color: blue;
+    font-weight: bold;
+}
+p{
+    font-size: x-large;
+    
+}
+.code{
+    color: firebrick;
+}
